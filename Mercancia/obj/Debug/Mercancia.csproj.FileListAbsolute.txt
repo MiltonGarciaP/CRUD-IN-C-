@@ -1,0 +1,30 @@
+C:\Users\DELL\source\repos\Mercancia\Mercancia\bin\Debug\Mercancia.exe.config
+C:\Users\DELL\source\repos\Mercancia\Mercancia\bin\Debug\Mercancia.exe
+C:\Users\DELL\source\repos\Mercancia\Mercancia\bin\Debug\Mercancia.pdb
+C:\Users\DELL\source\repos\Mercancia\Mercancia\obj\Debug\Mercancia.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Mercancia\Mercancia\obj\Debug\Mercancia.Form1.resources
+C:\Users\DELL\source\repos\Mercancia\Mercancia\obj\Debug\Mercancia.Properties.Resources.resources
+C:\Users\DELL\source\repos\Mercancia\Mercancia\obj\Debug\Mercancia.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Mercancia\Mercancia\obj\Debug\Mercancia.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Mercancia\Mercancia\obj\Debug\Mercancia.exe
+C:\Users\DELL\source\repos\Mercancia\Mercancia\obj\Debug\Mercancia.pdb
+C:\Users\DELL\Desktop\Archivos de milton\ITLA\Trabajos ITLA\Cuarto Cuatrimestre\Programacion II\Tarea 1\Mercancia\Mercancia\bin\Debug\Mercancia.exe.config
+C:\Users\DELL\Desktop\Archivos de milton\ITLA\Trabajos ITLA\Cuarto Cuatrimestre\Programacion II\Tarea 1\Mercancia\Mercancia\bin\Debug\Mercancia.exe
+C:\Users\DELL\Desktop\Archivos de milton\ITLA\Trabajos ITLA\Cuarto Cuatrimestre\Programacion II\Tarea 1\Mercancia\Mercancia\bin\Debug\Mercancia.pdb
+C:\Users\DELL\Desktop\Archivos de milton\ITLA\Trabajos ITLA\Cuarto Cuatrimestre\Programacion II\Tarea 1\Mercancia\Mercancia\obj\Debug\Mercancia.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Archivos de milton\ITLA\Trabajos ITLA\Cuarto Cuatrimestre\Programacion II\Tarea 1\Mercancia\Mercancia\obj\Debug\Mercancia.Form1.resources
+C:\Users\DELL\Desktop\Archivos de milton\ITLA\Trabajos ITLA\Cuarto Cuatrimestre\Programacion II\Tarea 1\Mercancia\Mercancia\obj\Debug\Mercancia.Properties.Resources.resources
+C:\Users\DELL\Desktop\Archivos de milton\ITLA\Trabajos ITLA\Cuarto Cuatrimestre\Programacion II\Tarea 1\Mercancia\Mercancia\obj\Debug\Mercancia.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Archivos de milton\ITLA\Trabajos ITLA\Cuarto Cuatrimestre\Programacion II\Tarea 1\Mercancia\Mercancia\obj\Debug\Mercancia.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Archivos de milton\ITLA\Trabajos ITLA\Cuarto Cuatrimestre\Programacion II\Tarea 1\Mercancia\Mercancia\obj\Debug\Mercancia.exe
+C:\Users\DELL\Desktop\Archivos de milton\ITLA\Trabajos ITLA\Cuarto Cuatrimestre\Programacion II\Tarea 1\Mercancia\Mercancia\obj\Debug\Mercancia.pdb
+C:\Users\DELL\Desktop\Archivos de milton\ITLA\Trabajos de cuatrimestres anteriores\Cuatrimestres\4.Cuarto Cuatrimestre\Programacion II\Tarea 1\Mercancia\Mercancia\bin\Debug\Mercancia.exe.config
+C:\Users\DELL\Desktop\Archivos de milton\ITLA\Trabajos de cuatrimestres anteriores\Cuatrimestres\4.Cuarto Cuatrimestre\Programacion II\Tarea 1\Mercancia\Mercancia\bin\Debug\Mercancia.exe
+C:\Users\DELL\Desktop\Archivos de milton\ITLA\Trabajos de cuatrimestres anteriores\Cuatrimestres\4.Cuarto Cuatrimestre\Programacion II\Tarea 1\Mercancia\Mercancia\bin\Debug\Mercancia.pdb
+C:\Users\DELL\Desktop\Archivos de milton\ITLA\Trabajos de cuatrimestres anteriores\Cuatrimestres\4.Cuarto Cuatrimestre\Programacion II\Tarea 1\Mercancia\Mercancia\obj\Debug\Mercancia.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Archivos de milton\ITLA\Trabajos de cuatrimestres anteriores\Cuatrimestres\4.Cuarto Cuatrimestre\Programacion II\Tarea 1\Mercancia\Mercancia\obj\Debug\Mercancia.Form1.resources
+C:\Users\DELL\Desktop\Archivos de milton\ITLA\Trabajos de cuatrimestres anteriores\Cuatrimestres\4.Cuarto Cuatrimestre\Programacion II\Tarea 1\Mercancia\Mercancia\obj\Debug\Mercancia.Properties.Resources.resources
+C:\Users\DELL\Desktop\Archivos de milton\ITLA\Trabajos de cuatrimestres anteriores\Cuatrimestres\4.Cuarto Cuatrimestre\Programacion II\Tarea 1\Mercancia\Mercancia\obj\Debug\Mercancia.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Archivos de milton\ITLA\Trabajos de cuatrimestres anteriores\Cuatrimestres\4.Cuarto Cuatrimestre\Programacion II\Tarea 1\Mercancia\Mercancia\obj\Debug\Mercancia.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Archivos de milton\ITLA\Trabajos de cuatrimestres anteriores\Cuatrimestres\4.Cuarto Cuatrimestre\Programacion II\Tarea 1\Mercancia\Mercancia\obj\Debug\Mercancia.exe
+C:\Users\DELL\Desktop\Archivos de milton\ITLA\Trabajos de cuatrimestres anteriores\Cuatrimestres\4.Cuarto Cuatrimestre\Programacion II\Tarea 1\Mercancia\Mercancia\obj\Debug\Mercancia.pdb
